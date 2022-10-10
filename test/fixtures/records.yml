@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  last_record: 2022-10-10 11:49:37
+  patient_id: 1
+  doctor_id: 1
+  medication: MyText
+
+two:
+  last_record: 2022-10-10 11:49:37
+  patient_id: 1
+  doctor_id: 1
+  medication: MyText
