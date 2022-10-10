@@ -4,7 +4,7 @@ class CreateDoctors < ActiveRecord::Migration[7.0]
       t.string :first_name
       t.string :last_name
       t.string :image_url
-      t.string :description
+      t.text :description
       t.string :location
 
       t.timestamps

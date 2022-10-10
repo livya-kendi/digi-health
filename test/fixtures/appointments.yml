@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  patient_id: 1
+  doctor_id: 1
+  start: 2022-10-10 11:46:58
+  end: 2022-10-10 11:46:58
+  reason: MyText
+
+two:
+  patient_id: 1
+  doctor_id: 1
+  start: 2022-10-10 11:46:58
+  end: 2022-10-10 11:46:58
+  reason: MyText
